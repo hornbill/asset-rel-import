@@ -1,2 +1,3 @@
-# asset-rel-import
-Import asset relationship data into Hornbill Service Manager from your on-premise databases
+# Asset Relationship Import - Databases to Hornbill
+
+See the [Hornbill Wiki](https://wiki.hornbill.com/index.php?title=Database_Asset_Relationship_Import) for documentation.
