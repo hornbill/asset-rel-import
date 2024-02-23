@@ -1,3 +1,3 @@
 # Asset Relationship Import - Databases to Hornbill
 
-See the [Hornbill Wiki](https://wiki.hornbill.com/index.php?title=Database_Asset_Relationship_Import) for documentation.
+See the [Data Imports Guide](https://docs.hornbill.com/data-imports-guide/asset-relationships/overview) for documentation.
